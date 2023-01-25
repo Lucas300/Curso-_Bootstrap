@@ -3,3 +3,10 @@
 .container-lg        100%       100%     100%     960px     1140px     1320px
 cont.container-xl 100%       100%     100%      100%     1140px     1320px
 .container-xxll      100%      100%     100%       100%     100%       1320px
+
+< 576px Small
+>= 576px Medium
+>= 768px Large
+>= 992px Extra large
+>= 1200px XXL
+>= 1400px
